@@ -1,0 +1,42 @@
+.form-class{
+    background-color: #e3eff1:
+    border: 1px solid blue;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.form-class label{
+    padding:5px
+}
+
+.form-class input {
+    width: 100%;
+    border: 1px solid blue;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.form-class .select-box{
+    margin-top: 10px;
+}
+
+.box-gender, .box-animal{
+    margin-top: 10px;
+    background-color: beige;
+}
+.box-gender input, .box-animal input{
+    width: auto;
+}
+.title{
+    display: block;
+}
+.box-animal
+    background-color: blanchedalmond;
+}
+
+.btn-submit{
+    background-color: blue;
+    color: white;
+    padding:5px
+    border: none;
+}
